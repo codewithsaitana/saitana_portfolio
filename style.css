@@ -407,3 +407,18 @@ li a:hover {
     background-position: 200% center;
   }
 }
+
+.about-img :hover{
+  transition-duration: 5s;
+
+  transform: scalex(-1);
+}
+
+.images :hover{
+ 
+    transition-duration: 5s;
+  
+    transform: scalex(-1);
+  
+  
+}
